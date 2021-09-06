@@ -1,0 +1,12 @@
+Person: gujinshuai     Time:Sat Sep  4 19:52:17 2021     Temperature:36.63000000000001
+Person: gujinshuai     Time:Sat Sep  4 19:54:07 2021     Temperature:36.63000000000005
+Person: gujinshuai     Time:Sat Sep  4 19:54:23 2021     Temperature:36.650000000000034
+Person: gujinshuai     Time:Sat Sep  4 19:54:51 2021     Temperature:36.93000000000001
+Person: gujinshuai     Time:Sat Sep  4 19:56:59 2021     Temperature:36.690000000000055
+Person: gujinshuai     Time:Sat Sep  4 19:58:49 2021     Temperature:36.690000000000055
+Person: tom     Time:Sun Sep  5 23:21:21 2021     Temperature:32.370000000000005
+Person: tom     Time:Sun Sep  5 23:21:50 2021     Temperature:32.53000000000003
+Person: tom     Time:Sun Sep  5 23:22:02 2021     Temperature:37.410000000000025
+Person: tom     Time:Sun Sep  5 23:22:16 2021     Temperature:37.89000000000004
+Person: tom     Time:Sun Sep  5 23:22:25 2021     Temperature:37.35000000000002
+Person: tom     Time:Sun Sep  5 23:22:32 2021     Temperature:38.170000000000016

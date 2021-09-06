@@ -1,0 +1,37 @@
+--------------------
+已打卡: 
+['gujinshuai']
+总计  1  已打卡
+
+weidaka: 
+['Jerry', 'boom', 'yaochenxi', 'tom']
+总计  4  未打卡
+
+------Sat Sep  4 20:01:01 2021--------------------------
+已打卡: 
+['gujinshuai']
+总计  1  已打卡
+
+weidaka: 
+['Jerry', 'boom', 'yaochenxi', 'tom']
+总计  4  未打卡
+
+------Sat Sep  4 20:01:08 2021--------------------------
+已打卡: 
+['gujinshuai']
+总计  1  已打卡
+
+weidaka: 
+['Jerry', 'boom', 'yaochenxi', 'tom']
+总计  4  未打卡
+
+------Sat Sep  4 20:01:38 2021--------------------------
+已打卡: 
+['gujinshuai']
+总计  1  已打卡
+
+weidaka: 
+['Jerry', 'boom', 'yaochenxi', 'tom']
+总计  4  未打卡
+
+------Sat Sep  4 20:04:08 2021------
